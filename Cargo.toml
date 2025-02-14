@@ -19,7 +19,6 @@ opt-level = "z"
 
 [features]
 default = []
-
 experimental = ["esp-idf-svc/experimental"]
 
 [dependencies]
